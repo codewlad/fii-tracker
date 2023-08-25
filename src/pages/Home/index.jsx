@@ -236,7 +236,7 @@ export function Home(){
     useEffect(() => {
         async function fetchData() {
             try {
-                const response = await fetch('http://localhost:3000/scrape');
+                const response = await fetch('http://localhost:3333/scrape');
                 const jsonData = await response.json();
                 setData(jsonData);
             } catch (error) {

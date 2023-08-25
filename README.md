@@ -1,7 +1,7 @@
-<h1 align="center"> FII Tracker </h1>
+![fii-tracker-title](https://github.com/codewlad/fii-tracker/assets/60326728/c6b14ab8-7ee1-49f3-a9ee-47f3747d7243)
 
 <p align="center">
-	  <img alt="Project status" src="https://img.shields.io/badge/Status-Em construção-orange">
+	  <img alt="Project status" src="https://img.shields.io/badge/Status-Finalizado-orange">
 	  <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/codewlad/fii-tracker">
 	  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/codewlad/fii-tracker">
 	  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/codewlad%2Ffii-tracker?style=social">
@@ -24,15 +24,13 @@ Filtros por:
 -   [x] Yield de 1 ou 12 meses
 -   [x] P/VPA
 -   [x] Quantidade de ativos
-
-<br /><br />
+        <br /><br />
 
 # 🔨 Outras características
 
 -   [x] Responsividade
 -   [x] Modo claro/escuro
-
-<br /><br />
+        <br /><br />
 
 # 📌 Tecnologias usadas
 
@@ -45,7 +43,13 @@ Filtros por:
 
 # 🖼️ Imagens
 
-em construção
+<div align="center">
+	<img src="https://images2.imgbox.com/4d/2e/5JrRN0Rk_o.png" alt="" width="250px" />
+	<img src="https://images2.imgbox.com/a8/e9/bvB1AZ9c_o.png" alt="" width="250px" />
+	<img src="https://images2.imgbox.com/17/7a/mNFbfjPO_o.png" alt="" width="100px" />
+	<img src="https://images2.imgbox.com/c8/58/bNaPQX4A_o.png" alt="" width="100px" />
+</div>
+<br /><br />
 
 # 💻 Como rodar o projeto
 
